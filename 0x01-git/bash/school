@@ -1,2 +1,4 @@
 #!/bin/bash
 esho school
+#!/bin/bash
+esho "school" 
