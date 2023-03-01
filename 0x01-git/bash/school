@@ -1,4 +1,4 @@
 #!/bin/bash
 esho school
 #!/bin/bash
-esho "school" 
+esho "The school is open!" 
